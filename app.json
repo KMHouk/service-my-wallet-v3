@@ -1,0 +1,7 @@
+{
+  "name": "Service-My-Wallet-v3",
+  "description": "Programmatically interface with your Blockchain.info wallet",
+  "repository": "https://github.com/KMHouk/service-my-wallet-v3",
+  "logo": "https://pbs.twimg.com/profile_images/493806472564711424/rMuSXKi6.png",
+  "keywords": ["node", "bitcoin", "blockchain"]
+}
